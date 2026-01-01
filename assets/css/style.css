@@ -470,7 +470,7 @@ section h2 {
 
 .floating-social {
     position: fixed;
-    left: 24px;
+    right: 24px;
     bottom: 24px;
     z-index: 999;
 }
