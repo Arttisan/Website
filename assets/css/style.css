@@ -471,7 +471,7 @@ section h2 {
 .floating-social {
     position: fixed;
     right: 24px;
-    bottom: 24px;
+    bottom: 50px;
     z-index: 999;
 }
 
@@ -482,8 +482,8 @@ section h2 {
 }
 
 .floating-social img {
-    width: 30px;      /* ⬅ lebih tegas */
-    height: 30px;
+    width: 40px;      /* ⬅ lebih tegas */
+    height: 40px;
     opacity: 0.75;
     transition: opacity 0.2s ease, transform 0.2s ease;
 }
